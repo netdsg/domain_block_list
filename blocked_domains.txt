@@ -158,7 +158,6 @@ braze.com
 bugsnag.com
 newrelic.com
 appboycdn.com
-algolianet.com
 sharethrough.com
 gumgum.com
 rlcdn.com
@@ -188,4 +187,5 @@ innorame.com
 ezoic.net
 lytics.io
 adpnut.com
-
+bzu.kr
+mobon.net
